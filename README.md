@@ -8,6 +8,6 @@
 
 > GitBook Editor 是一个本地应用版的在线编辑器，所见即所得。
 > 本书参考以下文章
-> 在线阅读 [http://www.chengweiyang.cn/gitbook/introduction/README.html](http://www.chengweiyang.cn/gitbook/introduction/README.html)
+> 在线阅读 [http://www.chengweiyang.cn/gitbook/introduction/README.html](http://www.chengweiyang.cn/gitbook/introduction/README.html) 
 > 在线阅读 [https://yuzeshan.gitbooks.io/gitbook-studying/content/](https://yuzeshan.gitbooks.io/gitbook-studying/content/)
 
